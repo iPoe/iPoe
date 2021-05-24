@@ -1,5 +1,5 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Leonardo</h2>
-
+<h2>Hey there! I'm Leonardo</h2>
+[![Gmail Badge](https://img.shields.io/badge/-leonardosawi12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardosawi12@gmail.com)](mailto:leonardosawi12@gmail.com)
 
 <!--
 **iPoe/iPoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,6 @@ Here are some ideas to get you started:-->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iPoe&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
 
