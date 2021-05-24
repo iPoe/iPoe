@@ -1,5 +1,5 @@
 <h2>Hey there! I'm Leonardo</h2>
-[![Gmail Badge](https://img.shields.io/badge/-leonardosawi12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardosawi12@gmail.com)](mailto:leonardosawi12@gmail.com)
+
 
 <!--
 **iPoe/iPoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 🎓 &nbsp;I'm currently studying Computer Science the University of Javeriana Cali.\
 🌱 &nbsp;I'm on track for learning more about Web development, automation, and Cloud develop.\
 ✍️ &nbsp;In my free time, I pursue Reading Novels and Listening Music as hobbies.\
-✉️ &nbsp;You can shoot me an email at leonardosawi12@gmail.com! I'll try to respond as soon as I can.\
+📫  &nbsp;How to reach me: [Linkedin](https://www.linkedin.com/in/leonardo-saez-wilches-719650157/) [Gmail](mailto:leonardosawi12@gmail.com)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
