@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:-->
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at the University of Javeriana Cali.\
+🎓 &nbsp;I'm currently studying Computer Science at the University Javeriana of Cali.\
 🌱 &nbsp;I'm on track for learning more about Web development, automation, and AI.\
-✍️ &nbsp;In my free time, I pursue Reading Novels and Listening Music as hobbies.\
+✍️ &nbsp;In my free time, I enjoy reading novels and listening to music and Cycling .\
 📫  &nbsp;How to reach me: [Linkedin](https://www.linkedin.com/in/leonardo-saez-wilches-719650157/) [Gmail](mailto:leonardosawi12@gmail.com)
 
 
