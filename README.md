@@ -12,14 +12,7 @@ Here are some ideas to get you started:-->
 📫  &nbsp;How to reach me: [Linkedin](https://www.linkedin.com/in/leonardo-saez-wilches-719650157/) [Gmail](mailto:leonardosawi12@gmail.com)
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iPoe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iPoe&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 
